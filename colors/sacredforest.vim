@@ -14,7 +14,7 @@ set background=dark
 
 hi Normal           ctermbg=0    ctermfg=7     cterm=NONE      guibg=#3c4c55 guifg=#ffebc3   gui=NONE
 
-hi Comment          ctermbg=NONE ctermfg=14    cterm=NONE      guibg=NONE    guifg=#616c72   gui=NONE
+hi Comment          ctermbg=NONE ctermfg=14    cterm=NONE      guibg=NONE    guifg=#91857c   gui=NONE
 hi Special          ctermbg=NONE ctermfg=15    cterm=NONE      guibg=NONE    guifg=#b2a488   gui=NONE
 hi Statement        ctermbg=NONE ctermfg=15    cterm=NONE      guibg=NONE    guifg=#b2a488   gui=NONE
 hi Type             ctermbg=NONE ctermfg=15    cterm=NONE      guibg=NONE    guifg=#b2a488   gui=NONE
@@ -29,7 +29,7 @@ hi String           ctermbg=NONE ctermfg=10    cterm=NONE      guibg=NONE    gui
 hi Title            ctermbg=NONE ctermfg=6     cterm=BOLD      guibg=NONE    guifg=#c5d4dd   gui=BOLD
 hi SpecialComment   ctermbg=NONE ctermfg=6     cterm=NONE      guibg=NONE    guifg=#c5d4dd   gui=NONE
 
-hi LineNr           ctermbg=NONE ctermfg=14    cterm=NONE      guibg=NONE    guifg=#616c72   gui=NONE
+hi LineNr           ctermbg=NONE ctermfg=14    cterm=NONE      guibg=NONE    guifg=#ad727b gui=NONE
 hi CursorLineNr     ctermbg=NONE ctermfg=11    cterm=NONE      guibg=NONE    guifg=#ddd668   gui=NONE
 hi MatchParen       ctermbg=NONE ctermfg=12    cterm=NONE      guibg=NONE    guifg=#7fc1ca   gui=NONE
 hi Conceal          ctermbg=NONE ctermfg=14    cterm=NONE      guibg=NONE    guifg=#616c72   gui=NONE
